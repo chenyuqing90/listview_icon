@@ -227,7 +227,7 @@ class _ListBuilderState extends State<ListBuilder> {
               )
                   : const SizedBox.shrink(),
               title: Text('Item $index'),
-              subtitle: Text('thie is subtitle'),);
+              subtitle: Text('this is subtitle'),);
         });
   }
 }
